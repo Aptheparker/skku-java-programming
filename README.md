@@ -70,15 +70,15 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="README_img/img2.png" alt="screenshot" width="900" height="auto"/>
+  <img src="README_img/img2.png" alt="screenshot" width="700" height="auto"/>
 </div>
 
 <div align="center"> 
-  <img src="README_img/img3.png" alt="screenshot" width="900" height="auto"/>
+  <img src="README_img/img3.png" alt="screenshot" width="700" height="auto"/>
 </div>
 
 <div align="center"> 
-  <img src="README_img/img4.png" alt="screenshot" width="900" height="auto"/>
+  <img src="README_img/img4.png" alt="screenshot" width="700" height="auto"/>
 </div>
 
 <!-- TechStack -->
