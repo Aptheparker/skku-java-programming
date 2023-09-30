@@ -78,24 +78,6 @@
 
 ## :toolbox: Getting Started
 
-<!-- Prerequisites -->
-
-### :bangbang: Prerequisites
-
-None
-
-<!-- Installation -->
-
-### :gear: Installation
-
-None
-
-<!-- Running Tests -->
-
-### :test_tube: Running Tests
-
-None
-
 <!-- Run Locally -->
 
 ### :running: Run Locally
